@@ -2,7 +2,7 @@ kpt_shape:
 - 17
 - 3
 names:
-  0: fall_person
-  1: standing_person
+  0: standing person
+  1: fall person
 path: .
 train: train.txt
